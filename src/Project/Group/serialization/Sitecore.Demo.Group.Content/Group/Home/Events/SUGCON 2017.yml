@@ -9,6 +9,12 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        Postillion Convention Centre Amsterdam
+        Paul van Vlissingenstraat 8, 1096 BK
+        Amsterdam, The Netherlands
     - ID: "04196f19-f057-43fd-b0ed-30dec1c7d316"
       Hint: Venue
       Value: Postillion Convention Centre Amsterdam
@@ -40,6 +46,12 @@ Languages:
     - ID: "b2eac18f-f5d5-49c7-91c1-f68fd8f0c9d0"
       Hint: Date
       Value: 20170518T080000Z
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Postillion Convention Centre Amsterdam
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: 52.3340377,4.921541199999979
     - ID: "fb5e01b1-9f1a-48e1-8efc-529d7a8fb8f0"
       Hint: Title
       Value: SUGCON 2017
