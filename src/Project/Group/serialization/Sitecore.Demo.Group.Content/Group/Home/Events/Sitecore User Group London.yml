@@ -30,6 +30,9 @@ Languages:
         <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">How can the xDB give us deeper insight into our audience behaviour and segmentation? Drawing from real-world client implementations, this session outlines how Sitecore xDB out-of-the-box capabilities combined with data mining techniques can deliver more intelligent engagement with online audiences.&nbsp;</p>
         <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;"><span>We hope to see you there, and don't forget to RSVP!&nbsp;</span>&nbsp;</p>
         <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">Steve</p>
+    - ID: "b2eac18f-f5d5-49c7-91c1-f68fd8f0c9d0"
+      Hint: Date
+      Value: 20170509T173000Z
     - ID: "fb5e01b1-9f1a-48e1-8efc-529d7a8fb8f0"
       Hint: Title
       Value: Sitecore User Group London
