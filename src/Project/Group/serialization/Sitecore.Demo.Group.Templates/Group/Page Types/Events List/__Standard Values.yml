@@ -1,25 +1,18 @@
 ﻿---
-ID: "e7ce9c4f-79b6-466f-b8ec-1609ca09858d"
-Parent: "567c4bd6-6791-4490-a1a3-4d1fe0eeee68"
-Template: "567c4bd6-6791-4490-a1a3-4d1fe0eeee68"
-Path: /sitecore/templates/Project/Group/Page Types/Home/__Standard Values
+ID: "66c2a39f-5670-41d7-9c4f-0193ecabf497"
+Parent: "943f5769-df87-4edc-9b7e-1f15633a19fd"
+Template: "943f5769-df87-4edc-9b7e-1f15633a19fd"
+Path: /sitecore/templates/Project/Group/Page Types/Events List/__Standard Values
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Type: TreelistEx
-  Value: |
-    {D8E22E52-13A5-4077-ACCA-034E622E046E}
-    {2A0D21CD-8B52-44BF-A8DB-3E6B2A1EE208}
-    {7EE9EE1A-9161-4095-8E1C-2D299D7C9BAB}
-    {80AA88D3-B032-4C85-AFCB-46145F8AB706}
-    {8E51248D-D460-423B-93AC-A26E1007EED4}
-    {8FF3D369-A508-4D2F-84A5-9B6C6BF5E537}
-    {943F5769-DF87-4EDC-9B7E-1F15633A19FD}
-- ID: "5585a30d-b115-4753-93ce-422c3455deb2"
-  Hint: ShowInNavigation
+  Value: "{3A9DF4C4-CF57-4BB3-A6E2-105AB37820B0}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
   Type: Checkbox
-  Value: 0
+  Value: 1
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -66,15 +59,27 @@ SharedFields:
           ph="navbar-activity"
           uid="{9C8A45F2-7008-42C1-8B8A-80A88825C1D8}" />
         <r
-          id="{A2216CA7-B205-4042-A345-72117D0086C3}"
-          par="UseStaticPlaceholderNames=0"
+          id="{26B33DEB-F1DB-4338-B043-AAF2F90E04A3}"
           ph="page-layout"
           uid="{1DF746C3-2D29-43E6-9DE2-05622DED6F97}" />
         <r
+          id="{45B8E1D9-D522-49E0-B9B7-04C965CC7089}"
+          ph="page-header"
+          uid="{3CDF4DD8-28A4-4185-8C09-A73CAA4633F7}" />
+        <r
           id="{D201A487-5099-48A1-8189-55944F70C6CB}"
-          par="UseStaticPlaceholderNames=0"
+          par="UseStaticPlaceholderNames=1"
           ph="page-layout"
           uid="{A3CA17FF-693C-46F1-87AA-B8C1833F1890}" />
+        <r
+          id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}"
+          par="UseStaticPlaceholderNames=1"
+          ph="/page-layout/section"
+          uid="{66422117-69C1-4B62-9323-482F16C4F244}" />
+        <r
+          id="{6D309FC1-D6B1-43B1-A31C-1FECB7B9303F}"
+          ph="col-huge"
+          uid="{3900ADC1-26E3-45C2-935C-1BC12D4E228A}" />
         <r
           id="{299FD8EA-2CFD-4A69-9CA4-7EA24CD34A46}"
           ph="footer"
@@ -118,8 +123,12 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20141119T041742Z
+      Value: 20150824T175428Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        extranet\Anonymous
+        sitecore\admin
+    - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
+      Hint: Image
+      Value: |
+        <image mediaid="{88032F9C-B464-44CB-B76D-513D60B9C127}" />

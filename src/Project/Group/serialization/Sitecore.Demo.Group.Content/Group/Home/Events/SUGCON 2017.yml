@@ -1,0 +1,51 @@
+﻿---
+ID: "8457d6c6-c90a-44a6-a5bf-8a79df91708e"
+Parent: "3e308396-759d-4261-b068-73961b850ee3"
+Template: "3a9df4c4-cf57-4bb3-a6e2-105ab37820b0"
+Path: /sitecore/content/Group/Home/Events/SUGCON 2017
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04196f19-f057-43fd-b0ed-30dec1c7d316"
+      Hint: Venue
+      Value: Postillion Convention Centre Amsterdam
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170509T132224Z
+    - ID: "7cb88f21-f752-4853-b6c0-7964c2b29423"
+      Hint: Description
+      Value: |
+        <div class="themeum-title rtl-right" style="color: #333333; background-color: #ffffff;">
+        <h3 class="style-title" style="color: #aa162c;">SITECORE USER GROUP CONFERENCE EUROPE 2017</h3>
+        <h4 class="style-sub-title" style="color: #452a6b;">Experience the power of the Sitecore community</h4>
+        </div>
+        <div class="wpb_text_column wpb_content_element " style="color: #333333; background-color: #ffffff; margin-bottom: 30px;">
+        <div class="wpb_wrapper" style="margin-bottom: 0px;">
+        <p style="margin-bottom: 10px;"><span style="margin-bottom: 0px;">The must-attend conference for every Sitecore developer,&nbsp;<a href="http://www.sugcon.eu/organization/" style="color: #29a7ac; background-color: transparent; margin-bottom: 0px;">organized by the community</a>&nbsp;for the community!</span></p>
+        <p>After the successful editions of&nbsp;<span>SUGCON Europe 2014, 2015 &amp; 2016</span>&nbsp;the Dutch and Nordic Sitecore User Groups have joined forces again to bring you the European Sitecore community conference 2017, fully focused on in-depth Sitecore knowledge.&nbsp;<span style="margin-bottom: 0px;">Get ready for SUGCON Europe 2017!</span></p>
+        </div>
+        </div>
+        <div class="themeum-title rtl-right" style="color: #333333; background-color: #ffffff;">
+        <h3 class="style-title" style="color: #aa162c;">LEARN AND ENJOY</h3>
+        </div>
+        <div class="wpb_text_column wpb_content_element " style="color: #333333; background-color: #ffffff; margin-bottom: 30px;">
+        <div class="wpb_wrapper" style="margin-bottom: 0px;">
+        <p style="margin-bottom: 10px;"><span style="margin-bottom: 0px;">This community driven conference&nbsp;<span style="margin-bottom: 0px;">will be packed with the latest insights and advice from some of the most experienced, skillful Sitecore experts in the world, from both Sitecore and the community</span>. Whether you are new to Sitecore or a diehard veteran, take advantage of this opportunity to gain new skills, and stay up to date with the latest innovative strategies.</span></p>
+        <p><span style="margin-bottom: 0px;"><span style="margin-bottom: 0px;">The first day includes a networking dinner where you can connect with your peers while enjoying great food and drinks</span>.</span></p>
+        </div>
+        </div>
+    - ID: "b2eac18f-f5d5-49c7-91c1-f68fd8f0c9d0"
+      Hint: Date
+      Value: 20170518T080000Z
+    - ID: "fb5e01b1-9f1a-48e1-8efc-529d7a8fb8f0"
+      Hint: Title
+      Value: SUGCON 2017
+    - ID: "fdf8ec99-38e7-4d6e-9ff2-cdb4b85d9b0b"
+      Hint: Venue Address
+      Value: |
+        Postillion Convention Centre Amsterdam
+        Paul van Vlissingenstraat 8, 1096 BK
+        Amsterdam, The Netherlands

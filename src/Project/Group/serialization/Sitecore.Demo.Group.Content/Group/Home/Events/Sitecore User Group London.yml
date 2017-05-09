@@ -1,0 +1,40 @@
+﻿---
+ID: "cbd70e5f-24e3-4735-aae7-1c5922a73fb4"
+Parent: "3e308396-759d-4261-b068-73961b850ee3"
+Template: "3a9df4c4-cf57-4bb3-a6e2-105ab37820b0"
+Path: /sitecore/content/Group/Home/Events/Sitecore User Group London
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04196f19-f057-43fd-b0ed-30dec1c7d316"
+      Hint: Venue
+      Value: No.11 Cavendish Square
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170509T131817Z
+    - ID: "7cb88f21-f752-4853-b6c0-7964c2b29423"
+      Hint: Description
+      Value: |
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">Join us for the May edition of SitecoreUG London, kindly sponsored by nonlinear creations.</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">&bull; Time: 6:30pm welcome &amp; food/drink. 7pm presentations.</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">&bull; Location: No.11 Cavendish Square, Maynard Theatre</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">Please RSVP so we have a good idea of numbers!</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">Speaker #1: Nick Allen, Solution Architect @ nonlinear UK</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">Sitecore XP at Scale</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">Sitecore XP provides tools to deploy context marketing tactics as part of a continuous web optimisation strategy. This session presents technical approaches that enable small content teams to manage and deploy tactics across infinitely scaling, taxonomy based information architectures.</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">Speaker #2: Amanda Shiga, VP Digital @ nonlinear</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">Audience Insights with Sitecore XP</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">How can the xDB give us deeper insight into our audience behaviour and segmentation? Drawing from real-world client implementations, this session outlines how Sitecore xDB out-of-the-box capabilities combined with data mining techniques can deliver more intelligent engagement with online audiences.&nbsp;</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;"><span>We hope to see you there, and don't forget to RSVP!&nbsp;</span>&nbsp;</p>
+        <p style="color: rgba(0, 0, 0, 0.87); background-color: #ffffff; margin-bottom: 16px; padding: 0px;">Steve</p>
+    - ID: "fb5e01b1-9f1a-48e1-8efc-529d7a8fb8f0"
+      Hint: Title
+      Value: Sitecore User Group London
+    - ID: "fdf8ec99-38e7-4d6e-9ff2-cdb4b85d9b0b"
+      Hint: Venue Address
+      Value: |
+        No.11 Cavendish Square
+        W1G OAN, London
