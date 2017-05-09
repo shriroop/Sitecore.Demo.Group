@@ -2,7 +2,7 @@
 ID: "9236f9fc-e7fd-4d93-ab2e-18ec9c3ec06b"
 Parent: "1048ae07-2a85-4d98-b3a6-53910b2fc122"
 Template: "061574e1-59dd-4b62-9680-1c84efbe6773"
-Path: /sitecore/content/Group/Home/_Local/Our Operations
+Path: /sitecore/content/Group/Global/_Local/Our Operations
 DB: master
 Languages:
 - Language: en

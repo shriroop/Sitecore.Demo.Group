@@ -1,8 +1,8 @@
 ﻿---
-ID: "8c80d977-e759-4e4d-a37b-50c5511b8bf9"
-Parent: "05fd15ba-ab2d-4eb4-92e0-c616614439c9"
-Template: "29d4b405-39eb-487d-9d6b-3f8467ab167d"
-Path: /sitecore/content/Group/Global/Teasers
+ID: "5aa44f51-1594-4f47-ac18-c874f9d285e4"
+Parent: "612fc424-2cde-45a8-91ca-986a49b64b2a"
+Template: "061574e1-59dd-4b62-9680-1c84efbe6773"
+Path: /sitecore/content/Group/Sweden/About/_Local/Management
 DB: master
 Languages:
 - Language: en
@@ -11,14 +11,17 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20150827T063033Z
+      Value: 20160906T223809Z
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: Management
 - Language: "sv-SE"
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170509T154349Z
+      Value: 20170509T154916Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

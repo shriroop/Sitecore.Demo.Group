@@ -1,8 +1,8 @@
 ﻿---
-ID: "76a207ba-ed14-41fa-b322-564671ed5b36"
+ID: "de12f823-f37c-405b-be1f-f9e3111d42e0"
 Parent: "06f0c32e-43ea-460f-bf48-5e30cc806d50"
 Template: "f0369e1a-9030-4a05-a09c-ef09b664ed27"
-Path: /sitecore/content/Group/Home/_Local/Default Carousel/Commerce
+Path: /sitecore/content/Group/Global/_Local/Default Carousel/Legal
 DB: master
 Languages:
 - Language: en
@@ -11,13 +11,14 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160829T053103Z
+      Value: 20160829T053944Z
     - ID: "302c9f8d-f703-4f76-a4ab-73d222648232"
       Hint: MediaDescription
-      Value: "Habitat Commerce is a major player in B2B and B2C Commerce and with our latest strides in e-commerce technology and logistics through our bricks-and-mortar shops we excel in customer experience."
+      Value: "With offices world-wide we can provide an always personal yet enterprise-level service to our legal business customers."
     - ID: "63dda48b-b0cb-45a7-9a1b-b26ddb41009b"
       Hint: MediaTitle
-      Value: Commerce Experience
+      Value: Worldwide Legal Services
     - ID: "9f51dead-ad6e-41c2-9759-7be17eb474a4"
       Hint: MediaImage
-      Value: "<image mediaid=\"{73885265-A606-4B6F-BA3E-9AA98BD0D2BF}\" />"
+      Value: |
+        <image mediaid="{1C9D05D5-5503-499A-9782-444109A3AF42}" />

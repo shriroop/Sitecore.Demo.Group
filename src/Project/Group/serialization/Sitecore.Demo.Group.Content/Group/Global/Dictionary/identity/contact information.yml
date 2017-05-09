@@ -1,0 +1,18 @@
+﻿---
+ID: "2c971d7b-1e77-47d0-ba5e-0bf7346aca07"
+Parent: "3383d552-2d06-499d-80f3-752b3d6de258"
+Template: "98e4bdc6-9b43-4eb2-baa3-d4303c35852e"
+Path: /sitecore/content/Group/Global/Dictionary/identity/contact information
+DB: master
+Languages:
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170509T152845Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
